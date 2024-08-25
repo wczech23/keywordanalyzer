@@ -1,0 +1,4 @@
+#!/bin/bash
+
+python adzuna_api.py
+python tfidf_scoring.py
